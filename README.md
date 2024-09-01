@@ -1,6 +1,7 @@
 # FunLocker
 #### Written by: Toughrebel4041
 
+## Overview
 FunLocker is a password-locked file decryptor (so far only have .docx and .pdf file decryptors). FunLocker uses a set of base passwords provided by the user to attempt to unlock encrypted files. The program will generate various combinations of these passwords to maximize the chances of successfully decrypting the file. This is useful if you have a list of possible passwords that you commonly use and need to recover access to a file that has been encrypted with one of these passwords.
 
 This repository contains two tools for decrypting password-protected files:
@@ -21,7 +22,7 @@ You need to install the required Python libraries. You can do this using the pro
    cd FunLocker
    ```
    
-Install the dependencies for Word and PDF decryption:
+2. Install the dependencies for Word and PDF decryption:
 
 ```bash
 pip install -r requirements.txt
@@ -67,3 +68,8 @@ Enter the desired name for the output file (e.g., Decrypted_File.pdf)
 
 ### Notice: You might want to place the pdf or docx file on the same directory as the decryptor
 
+## License
+This project is licensed under the MIT License - see the [LICENSE](https://www.github.com/Toughrebel4041/FunLocker/LICENSE) file for details.
+```bash
+This expanded description provides a comprehensive overview of the FunLocker project, detailing its functionality, installation instructions, and usage.
+```
