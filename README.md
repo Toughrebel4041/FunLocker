@@ -69,7 +69,7 @@ Enter the desired name for the output file (e.g., Decrypted_File.pdf)
 ### Notice: You might want to place the pdf or docx file on the same directory as the decryptor
 
 ## License
-This project is licensed under the MIT License - see the [LICENSE](https://www.github.com/Toughrebel4041/FunLocker/LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/Toughrebel4041/FunLocker/blob/main/LICENSE) file for details.
 ```bash
 This expanded description provides a comprehensive overview of the FunLocker project, detailing its functionality, installation instructions, and usage.
 ```
